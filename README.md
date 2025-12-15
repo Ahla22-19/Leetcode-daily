@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0007-reverse-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ahla22-19/Leetcode-daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3433-count-mentions-per-user](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Enumeration
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ahla22-19/Leetcode-daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3433-count-mentions-per-user](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3583-count-special-triplets) |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3433-count-mentions-per-user](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3433-count-mentions-per-user) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ahla22-19/Leetcode-daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 <!---LeetCode Topics End-->
