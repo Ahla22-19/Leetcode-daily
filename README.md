@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ahla22-19/Leetcode-daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3433-count-mentions-per-user](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3583-count-special-triplets) |
@@ -28,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3583-count-special-triplets](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3606-coupon-code-validator) |
 ## Counting
 |  |
 | ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3583-count-special-triplets](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3583-count-special-triplets) |
 ## Brainteaser
 |  |
