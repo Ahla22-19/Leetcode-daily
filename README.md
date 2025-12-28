@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ahla22-19/Leetcode-daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3074-apple-redistribution-into-boxes) |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3074-apple-redistribution-into-boxes) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
