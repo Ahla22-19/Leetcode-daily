@@ -12,6 +12,14 @@ A collection of LeetCode questions I've solved to prepare for technical intervie
 
 
 ---
+### Core Topics
+- **Math** – Reverse integer, odd number counting, combinatorics
+- **Arrays** – Matrix operations, sorting, stock strategies
+- **Dynamic Programming** – Smooth descent periods, corridor division
+- **Trees** – Maximum level sum, binary tree splitting
+- **Strings** – Column deletion, coupon validation
+- **Hash Tables** – Frequency counting, special triplets
+
 
 ## 🚀 Featured Solutions
 
@@ -42,9 +50,22 @@ A collection of LeetCode questions I've solved to prepare for technical intervie
 
 ---
 
-## 🛠️ Installation & Setup
+## 📊 Progress Overview
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Ahla22-19/Leetcode-daily.git
-   cd Leetcode-daily
+| Metric | Count |
+|--------|-------|
+| **Problems Solved** | 300+ |
+| **Topics Covered** | 20+ |
+| **Language Used** | Python|
+
+## 👤 Author
+
+**Ahla22-19** – Consistent problem solver passionate about algorithms and data structures.
+
+🔗 **GitHub:** [@Ahla22-19](https://github.com/Ahla22-19)
+
+---
+
+## 📄 License
+
+This project is for personal learning and interview preparation.
