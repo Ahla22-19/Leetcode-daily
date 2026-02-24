@@ -1,7 +1,17 @@
-# Leetcode-daily
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Daily – Problem Solving Journey
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+---
+
+## 🌟 Description
+
+A collection of LeetCode questions I've solved to prepare for technical interviews. This repository tracks my daily progress across various problem-solving topics including arrays, dynamic programming, trees, and more. Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) to automatically sync my accepted solutions.
 
 <!---LeetCode Topics Start-->
+
 # LeetCode Topics
 ## Math
 |  |
