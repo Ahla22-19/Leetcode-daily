@@ -30,11 +30,7 @@ A collection of LeetCode questions I've solved to prepare for technical intervie
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1925-count-square-sum-triples) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1925-count-square-sum-triples) |
 
-### Arrays & Matrix
-| Problem | Difficulty | Solution |
-|---------|------------|----------|
-| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
-| [3074-apple-redistribution-into-boxes](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3074-apple-redistribution-into-boxes) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3074-apple-redistribution-into-boxes) |
+#
 
 #
 
