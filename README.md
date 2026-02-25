@@ -23,12 +23,7 @@ A collection of LeetCode questions I've solved to prepare for technical intervie
 
 ## 🚀 Featured Solutions
 
-### Math & Enumeration
-| Problem | Difficulty | Solution |
-|---------|------------|----------|
-| [0007-reverse-integer](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0007-reverse-integer) | Medium | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0007-reverse-integer) |
-| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
-| [1925-count-square-sum-triples](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1925-count-square-sum-triples) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1925-count-square-sum-triples) |
+#
 
 #
 
@@ -67,6 +62,7 @@ This project is for personal learning and interview preparation.
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0066-plus-one) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3074-apple-redistribution-into-boxes) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/3074-apple-redistribution-into-boxes) |
@@ -76,4 +72,11 @@ This project is for personal learning and interview preparation.
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ahla22-19/Leetcode-daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) | Medium | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ahla22-19/Leetcode-daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) | Hard | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0007-reverse-integer) | Medium | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0066-plus-one) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1925-count-square-sum-triples](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1925-count-square-sum-triples) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
