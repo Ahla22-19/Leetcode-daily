@@ -29,11 +29,7 @@ A collection of LeetCode questions I've solved to prepare for technical intervie
 
 #
 
-### Trees & Graphs
-| Problem | Difficulty | Solution |
-|---------|------------|----------|
-| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) | Medium | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
-| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1339-maximum-product-of-splitted-binary-tree) | Medium | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+#
 
 ---
 
@@ -79,4 +75,26 @@ This project is for personal learning and interview preparation.
 | [0066-plus-one](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0066-plus-one) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1925-count-square-sum-triples) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1925-count-square-sum-triples) |
+## Hash Table
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Tree
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) | Medium | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1339-maximum-product-of-splitted-binary-tree) | Medium | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
