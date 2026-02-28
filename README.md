@@ -73,6 +73,7 @@ This project is for personal learning and interview preparation.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0007-reverse-integer) | Medium | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0342-power-of-four) |
@@ -107,6 +108,7 @@ This project is for personal learning and interview preparation.
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0342-power-of-four) |
 ## String
