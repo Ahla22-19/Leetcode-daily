@@ -65,6 +65,7 @@ This project is for personal learning and interview preparation.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ahla22-19/Leetcode-daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) | Medium | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ahla22-19/Leetcode-daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) | Hard | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -73,6 +74,7 @@ This project is for personal learning and interview preparation.
 | ------- |
 | [0007-reverse-integer](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0007-reverse-integer) | Medium | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0066-plus-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0342-power-of-four) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1925-count-square-sum-triples) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1925-count-square-sum-triples) |
@@ -105,5 +107,14 @@ This project is for personal learning and interview preparation.
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0342-power-of-four) |
+## String
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
