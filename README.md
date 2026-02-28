@@ -76,6 +76,7 @@ This project is for personal learning and interview preparation.
 | [0050-powx-n](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0342-power-of-four) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1925-count-square-sum-triples) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1925-count-square-sum-triples) |
@@ -110,6 +111,7 @@ This project is for personal learning and interview preparation.
 | ------- |
 | [0050-powx-n](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0342-power-of-four) |
 ## String
 |  |
