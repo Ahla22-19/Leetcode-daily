@@ -73,6 +73,7 @@ This project is for personal learning and interview preparation.
 | ------- |
 | [0007-reverse-integer](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0007-reverse-integer) | Medium | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0066-plus-one) |
+| [0342-power-of-four](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0342-power-of-four) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1925-count-square-sum-triples) | Easy | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1925-count-square-sum-triples) |
 ## Hash Table
@@ -97,4 +98,12 @@ This project is for personal learning and interview preparation.
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
