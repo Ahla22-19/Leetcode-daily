@@ -65,6 +65,7 @@ This project is for personal learning and interview preparation.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ahla22-19/Leetcode-daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ahla22-19/Leetcode-daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) | Medium | [View](https://github.com/Ahla22-19/Leetcode-daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -116,9 +117,14 @@ This project is for personal learning and interview preparation.
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0241-different-ways-to-add-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ahla22-19/Leetcode-daily/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
